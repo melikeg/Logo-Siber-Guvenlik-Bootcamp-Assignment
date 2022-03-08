@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Aslı",
+        "surname" : "Demir",
+        "age" : "18"
+    },
+    {
+        "name" : "Derya",
+        "surname" : "Pak",
+        "age" : "25"
+    },
+    {
+        "name" : "Canan",
+        "surname" : "Yıldırım",
+        "age" : "36"
+    },
+    {
+        "name" : "Arda",
+        "surname" : "Okur",
+        "age" : "12"
+    },
+    {
+        "name" : "Fırat",
+        "surname" : "Hak",
+        "age" : "20"
+    },
+    {
+        "name" : "Süleyman",
+        "surname" : "Dağlar",
+        "age" : "42"
+    }
+]
